@@ -82,12 +82,6 @@ Me interesa construir software confiable mediante buenas prácticas de testing, 
 
 </details>
 
-## 🚀 Proyectos
-
-En este espacio comparto proyectos académicos y personales relacionados con **automatización de pruebas, programación y calidad de software**.
-
-> Próximamente: repositorios destacados con una breve descripción, tecnologías utilizadas y enlaces a los proyectos.
-
 ## 🤝 Contacto
 
 - **Correo:** [federicoagustingiglio@gmail.com](mailto:federicoagustingiglio@gmail.com)
