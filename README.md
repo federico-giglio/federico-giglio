@@ -54,21 +54,21 @@ Me interesa construir software confiable mediante buenas prácticas de testing, 
 - Validación de servicios y APIs mediante **Postman, SoapUI y Webservice Studio**.
 
 **QA Analyst & Project Manager · TREM Group**  
-*Octubre de 2022 – marzo de 2023, según CV*
+*Octubre de 2022 – marzo de 2023,  *
 
 - Coordinación y planificación de actividades, recursos y alcance de proyectos.
 - Pruebas funcionales y de interfaz, documentación de incidencias y propuestas de mejora.
 - Trabajo con **Jira, Confluence, Cypress y Postman** en entornos de desarrollo web.
 
 **QA Manual Analyst · uTest (freelance)**  
-*Desde julio de 2022, según CV*
+*Desde julio de 2022,  *
 
 - Pruebas manuales de funcionalidades y testing de aplicaciones móviles.
 
 ## 🎓 Formación académica
 
-- **Tecnicatura Universitaria en Programación** — Universidad Tecnológica Nacional, San Rafael (2025–2026, según CV).
-- **Licenciatura en Calidad, Ambiente y Seguridad** — Universidad Aconcagua, Mendoza (2012–2018, según CV).
+- **Tecnicatura Universitaria en Programación** — Universidad Tecnológica Nacional, San Rafael (2025–2026,  ).
+- **Licenciatura en Calidad, Ambiente y Seguridad** — Universidad Aconcagua, Mendoza (2012–2018,  ).
 
 <details>
 <summary><strong>📚 Cursos y certificaciones</strong></summary>
