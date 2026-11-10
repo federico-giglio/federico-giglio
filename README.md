@@ -87,7 +87,7 @@ Me interesa construir software confiable mediante buenas prácticas de testing, 
 - **Correo:** [federicoagustingiglio@gmail.com](mailto:federicoagustingiglio@gmail.com)
 - **Ubicación:** Mendoza, Argentina
 - **Idiomas:** Español nativo · Inglés B2
-- **LinkedIn:** [https://www.linkedin.com/in/federico-agustin-giglio/]
+- **LinkedIn:** [Federico Agustín Giglio](https://www.linkedin.com/in/federico-agustin-giglio/)
 ---
 
 <div align="center">
